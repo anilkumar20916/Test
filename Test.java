@@ -8,7 +8,7 @@ public class Test {
 	
 	public static void main(String[] args) throws IOException {
 		
-		System.out.println("Java method :::");
+		System.out.println("Java method called :::");
 		
 		LocalDate localDate = LocalDate.now();
 		LocalTime localTime = LocalTime.of(12, 20);
