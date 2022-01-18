@@ -15,6 +15,8 @@ public class Test {
 		LocalDateTime localDateTime = LocalDateTime.now(); 
 		System.out.println("localDatedhhf"+localDate);
 		System.out.println("localTimednbc"+localTime);
+		System.out.println("localDateddd"+localDate);
+		System.out.println("localTime1Dev"+localTime);
 		System.out.println("localDateTime  "+localDateTime);
 		
 		System.out.println("Normal...");
@@ -24,10 +26,15 @@ public class Test {
 
         System.out.println("Parallel...");
 		
-		anil
+		anil8
 		anild
 		asddee
 		asd
+		asdd
+		asd1
+		ss
+		www
+
 
         IntStream range2 = IntStream.rangeClosed(1, 10);
         range2.parallel().forEach(System.out::println); 
@@ -37,7 +44,14 @@ public class Test {
 	public void test(test){
 		jjkkk
 		eeee
-		
+	
+
+}
+    public void test1(test){
+		dev
+		dev
+		vev
+
 
 }
 	
