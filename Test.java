@@ -14,7 +14,7 @@ public class Test {
 		LocalTime localTime = LocalTime.of(12, 20);
 		LocalDateTime localDateTime = LocalDateTime.now(); 
 		System.out.println("localDate"+localDate);
-		System.out.println("localTime"+localTime);
+		System.out.println("localTime1Dev"+localTime);
 		System.out.println("localDateTime  "+localDateTime);
 		
 		System.out.println("Normal...");
@@ -24,10 +24,11 @@ public class Test {
 
         System.out.println("Parallel...");
 		
-		anil
+		anil8
 		anild
 		asdd
-		asd
+		asd1
+		ss
 		www
 
         IntStream range2 = IntStream.rangeClosed(1, 10);
@@ -36,9 +37,14 @@ public class Test {
 	}
 	
 	public void test(test){
-		eeee
-		eeeee
-		eeee
-		eee
+		dev
+		dev
+		vev
+
+}
+    public void test1(test){
+		dev
+		dev
+		vev
 
 }
