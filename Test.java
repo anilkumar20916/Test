@@ -28,6 +28,7 @@ public class Test {
 		anild
 		asdd
 		asd
+		www
 
         IntStream range2 = IntStream.rangeClosed(1, 10);
         range2.parallel().forEach(System.out::println); 
@@ -35,6 +36,6 @@ public class Test {
 	}
 	
 	public void test(test){
-		
+		eeee
 
 }
