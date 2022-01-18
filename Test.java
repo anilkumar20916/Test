@@ -13,7 +13,7 @@ public class Test {
 		LocalDate localDate = LocalDate.now();
 		LocalTime localTime = LocalTime.of(12, 20);
 		LocalDateTime localDateTime = LocalDateTime.now(); 
-		System.out.println("localDate"+localDate);
+		System.out.println("localDateddd"+localDate);
 		System.out.println("localTime1Dev"+localTime);
 		System.out.println("localDateTime  "+localDateTime);
 		
