@@ -8,7 +8,7 @@ public class Test {
 	
 	public static void main(String[] args) throws IOException {
 		
-		System.out.println("Java method called :::");
+		System.out.println("Java method :::");
 		
 		LocalDate localDate = LocalDate.now();
 		LocalTime localTime = LocalTime.of(12, 20);
@@ -23,10 +23,18 @@ public class Test {
         range.forEach(System.out::println);
 
         System.out.println("Parallel...");
+		
+		anil
+		anild
+		asdd
+		asd
 
         IntStream range2 = IntStream.rangeClosed(1, 10);
-        range2.parallel().forEach(System.out::println);
+        range2.parallel().forEach(System.out::println); 
 		
 	}
+	
+	public void test(test){
+		
 
 }
