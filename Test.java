@@ -37,5 +37,8 @@ public class Test {
 	
 	public void test(test){
 		eeee
+		eeeee
+		eeee
+		eee
 
 }
