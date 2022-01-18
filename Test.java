@@ -13,8 +13,8 @@ public class Test {
 		LocalDate localDate = LocalDate.now();
 		LocalTime localTime = LocalTime.of(12, 20);
 		LocalDateTime localDateTime = LocalDateTime.now(); 
-		System.out.println("localDate"+localDate);
-		System.out.println("localTime"+localTime);
+		System.out.println("localDatedhhf"+localDate);
+		System.out.println("localTimednbc"+localTime);
 		System.out.println("localDateTime  "+localDateTime);
 		
 		System.out.println("Normal...");
