@@ -11,7 +11,7 @@ public class Test {
 		System.out.println("Java method :::");
 		
 		LocalDate localDate = LocalDate.now();
-		LocalTime localTime = LocalTime.of(12,30, 20);
+		LocalTime localTime = LocalTime.of(12,20);
 		LocalDateTime localDateTime = LocalDateTime.now(); 
 		System.out.println("localDatedhhf"+localDate);
 		System.out.println("localTimednbc"+localTime);
