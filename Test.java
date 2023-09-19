@@ -35,7 +35,7 @@ public class Test {
 		ss
 		www
 
-
+//commented added 
         IntStream range2 = IntStream.rangeClosed(1, 10);
         range2.parallel().forEach(System.out::println); 
 		
