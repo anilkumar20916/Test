@@ -7,7 +7,7 @@ import java.util.stream.IntStream;
 public class Test {
 	
 	public static void main(String[] args) throws IOException {
-		
+		//java comment
 		System.out.println("Java method :::");
 		
 		LocalDate localDate = LocalDate.now();
